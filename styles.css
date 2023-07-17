@@ -1,0 +1,32 @@
+body{
+    background-color: lightcyan;
+ 
+}
+.bacon
+{
+     background-color: rgb(69, 238, 111);
+}
+.broccoli 
+{
+    background-color: red;
+}
+/*            img hover*/
+img:hover{
+    background-color: gold;
+}
+.circular-img
+{
+border-radius: 100%;
+}
+h1
+{
+    
+    font-size: 50px;
+    color: red;
+
+}
+/* id selector */
+#heading
+{
+    color: blue;
+}
